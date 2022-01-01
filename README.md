@@ -1,3 +1,2 @@
 # e-commerce
-e-commerce web portal
-AUTHOR : ARSALAN RASHID THOKER
+e-commerce web portal (for learning purpose)
